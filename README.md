@@ -7,5 +7,5 @@ Pour utiliser ce code sans rien installer et sans s'embêter, [cliquez là: ![Bi
 
 # Disclamer
 
-L'épidémiologie et tout ce qui s'en rapproche ne sont pas mes spécialité. Rien
+L'épidémiologie et tout ce qui s'en rapproche ne sont pas mes spécialités. Rien
 ne pourra être supposé exact sur la base de ces informations.
